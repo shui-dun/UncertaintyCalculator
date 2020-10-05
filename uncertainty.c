@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// c语言控制台的不确定性计算器
+// c语言控制台的不确定度计算器
 // 本程序和上面的那个javaFX程序无关，只是放在这里
 
 double mean(double data[],int amount)
